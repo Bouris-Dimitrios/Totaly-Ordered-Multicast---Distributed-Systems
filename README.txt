@@ -3,8 +3,8 @@ FIRST ASSIGNMENT- TOTALY ORDERED MULTICAST
 STUDENT - BOURIS DIMITRIS AM:1894    email: bourisdim@gmail.com
 
 
-I askisi afora stin olika diatetagmeni poluekpompi opws sizitithike sto mathima.
-To project einai apoteleitai apo dio packets "orderedMulticast" kai "utilities"
+I askisi afora stin olika diatetagmeni poluekpompi.
+To project  apoteleitai apo dio packets "orderedMulticast" kai "utilities"
 kathos kai apo to arxeio MulticastingPeer.py.
 
 ----MODULES DISCRIPTION----
